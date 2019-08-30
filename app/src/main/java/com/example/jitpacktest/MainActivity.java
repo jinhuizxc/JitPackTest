@@ -6,6 +6,10 @@ import android.os.Bundle;
 /**
  * 实现自己的开源库----JitPack使用体验
  * https://www.jianshu.com/p/9218d34fb8fa?utm_campaign=haruki&utm_content=note&utm_medium=reader_share&utm_source=weixin
+ *
+ * 仪表盘进度条--利用JitPack已发布
+ * https://github.com/DrownCoder/DriverProgress
+ *
  */
 public class MainActivity extends AppCompatActivity {
 
@@ -13,5 +17,6 @@ public class MainActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
+
     }
 }
