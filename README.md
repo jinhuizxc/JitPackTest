@@ -1,5 +1,4 @@
-# JitPackTest
-JitPackTest
+# JitPack上传测试github
 
 在JitPack中发布自己library
 官方文档：https://jitpack.io/docs/ANDROID/
