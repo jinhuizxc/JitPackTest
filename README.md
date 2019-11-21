@@ -16,7 +16,7 @@ buildscript {
 - 2.在library的build.gradle中加入
 ```
 apply plugin: 'com.github.dcendents.android-maven'
-group='com.github.jinhuizxc'
+group='com.github.YourUsername' //group='com.github.jinhuizxc'
 ```
 
 - 3.下面这一步要注意
