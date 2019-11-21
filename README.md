@@ -1,4 +1,4 @@
-# JitPack上传测试github
+# JitPack上传自己的开源库
 
 在JitPack中发布自己library
 
