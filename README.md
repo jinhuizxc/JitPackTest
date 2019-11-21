@@ -26,5 +26,7 @@ group='com.github.YourUsername' //group='com.github.jinhuizxc'
 - 5.下面这步很重要！在Github上的release这里新建一个版本
 这一步不做的话会导致发布失败的！
 
+Jitpack地址： https://www.jitpack.io/
+
 ## 参考文章
 - [实现自己的开源库----JitPack使用体验](https://www.jianshu.com/p/9218d34fb8fa?utm_campaign=haruki&utm_content=note&utm_medium=reader_share&utm_source=weixin)
