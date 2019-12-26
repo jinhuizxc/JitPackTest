@@ -24,6 +24,6 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
 
         String tag = Test.Tag;
-        Log.e(TAG, "获取tag信息: " + tag);  //  E/MainActivity: 获取tag信息: 123
+        Log.e(TAG, "获取tag信息: " + tag);  // E/MainActivity: 获取tag信息: 123
     }
 }

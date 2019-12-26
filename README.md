@@ -32,3 +32,5 @@ group='com.github.YourUsername' //group='com.github.jinhuizxc'
 ## 参考文章
 - [实现自己的开源库----JitPack使用体验](https://www.jianshu.com/p/9218d34fb8fa?utm_campaign=haruki&utm_content=note&utm_medium=reader_share&utm_source=weixin)
 - [Jitpack](https://www.jitpack.io/)
+- [Android Studio 将module打成jar包](https://www.2cto.com/kf/201702/603138.html)
+- [AndroidStudio项目打包成jar](https://www.cnblogs.com/xxdh/p/6703746.html)
