@@ -5,6 +5,9 @@ import android.os.Bundle;
 import android.util.Log;
 
 import com.example.mylibrary.Test;
+import com.mobile.mobilehardware.simcard.SimCardHelper;
+
+import org.json.JSONObject;
 
 /**
  * 实现自己的开源库----JitPack使用体验
@@ -25,5 +28,8 @@ public class MainActivity extends AppCompatActivity {
 
         String tag = Test.Tag;
         Log.e(TAG, "获取tag信息: " + tag);  // E/MainActivity: 获取tag信息: 123
+
+        JSONObject jsonObject = SimCardHelper.mobileSimInfo(getApplicationContext());
+
     }
 }

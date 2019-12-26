@@ -39,5 +39,8 @@ dependencies {
 //    implementation 'com.github.jinhuizxc:JitPackTest:v1.0.1'
     implementation(name: 'mylibrary-release', ext: 'aar')
 
+    implementation 'fairy.easy:mobilehardware:2.2.1'
+    implementation project(path: ':deviceinfo')
+
 
 }
